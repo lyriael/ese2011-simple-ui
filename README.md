@@ -1,5 +1,7 @@
 ## ese2011 simple ui
 
+### to log in to the application use username: judith pw: ese
+
 There are still several problems within the project that I could not solve.
 
 -renaming the folder to calendar (I think I would have to reorganize the whole structre?)
